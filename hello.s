@@ -5,10 +5,12 @@
 ; https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
 ; https://en.wikipedia.org/wiki/Write_(system_call) 
 
-section .config
-	hello_world db 'Hello, world!',10 	;string and the ascii code for a new line (10)
-	global _start
+global _start
 
+section .data
+	hello_world db 'Hello, world!',10 	;string and the ascii code for a new line (10)
+
+section .text
 _start:
 	mov rax, 1 				;1 is the syscall code for write. bellow the arguments are set
 	mov rdi, 1 				;fd - 0: stdin, 1:stdou, 2:sterr
