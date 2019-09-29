@@ -5,12 +5,6 @@
 ; https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
 ; https://en.wikipedia.org/wiki/Write_(system_call) 
 
-; Instructions on how to compile on X86_64 Linux
-; 1) Have nasm installed
-; 2) nasm -f elf64 -o hello.o hello.s 			> compiles a hello.o object file
-; 3) ld -o hello.o hello 						> links into an executable file called hello
-; 4) ./hello 									> runs the program
-
 section .config
 	hello_world db 'Hello, world!',10 	;string and the ascii code for a new line (10)
 	global _start
