@@ -12,5 +12,6 @@ These are instructions for compiling and running on a Linux x86_64 machine
 
 ## Files
 - [hello.s](hello.s) - Simple "Hello, world!" script
+- [counter.s](counter.s) - Counts from 0 to 9 and prints to stdout. First use of multiple calls and loops 
 
 
