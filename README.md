@@ -24,3 +24,4 @@ Compared to high level languages Assembly languages seem to have bits and pieces
 - [Linux System Calls for x86_64](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
 - [Flags registers](https://en.wikipedia.org/wiki/FLAGS_register)
 - [NASM Assembly Programming](https://www.tutorialspoint.com/assembly_programming/index.htm)
+- [Kupala Assembly YT Series](https://www.youtube.com/watch?v=VQAKkuLL31g&list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn) - great series of Youtube videos covering the basics
