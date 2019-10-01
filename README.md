@@ -16,7 +16,7 @@ These are instructions for compiling and running on a Linux x86_64 machine
 - [fibonacci.s](fibonacci.s) - Prints Fibonacci numbers from 0 to 10000. Using functions, macros and constants
 
 ## Learning resources
-Compared to high level languages Assembly languages seem to have bits and pieces of knowledge very scattered around the web. I haven't found (so far) a very comprehensive learning support, but here are some helpful links I've come across:
+Compared to high level languages, Assembly languages seem to have bits and pieces of knowledge very scattered around the web. I haven't found (so far) a very comprehensive learning support, but here are some helpful links I've come across:
 
 - [NASM](https://www.nasm.us/) - The most common x86_64 Assembly compiler for Linux
 - [NASM docs](https://www.nasm.us/doc/nasmdoc0.html)
