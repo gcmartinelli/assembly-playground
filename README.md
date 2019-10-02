@@ -26,3 +26,4 @@ Compared to high level languages, Assembly languages seem to have bits and piece
 - [NASM Assembly Programming](https://www.tutorialspoint.com/assembly_programming/index.htm)
 - [Kupala Assembly YT Series](https://www.youtube.com/watch?v=VQAKkuLL31g&list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn) - great series of Youtube videos covering the basics
 - [Just Enough Assembly for Compiler Explorer](https://www.youtube.com/watch?v=soeFwz0cOqU) - another good introduction video
+- [NASM Assembly Tutorials](https://asmtutor.com/)
